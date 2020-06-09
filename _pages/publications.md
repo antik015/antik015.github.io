@@ -1,17 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: 
 permalink: /publications/
 author_profile: true
 ---
-1. Chakraborty, A., Ovaskainen, O., & Dunson, D. B. (2020). Bayesian semiparametric long memory models for discretized event data. (Submitted)
+Preprints
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+1. Chakraborty, A., Ovaskainen, O., & Dunson, D. B. (2020). [Bayesian semiparametric long memory models for discretized event data.](https://arxiv.org/abs/2004.08309). (Submitted) 
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2. Chattopadhyay, S., Chakraborty, A., & Dunson, D. B. (2020). [Nearest Neighbor Dirichlet Process.](https://arxiv.org/abs/2003.07953) (Submitted)
