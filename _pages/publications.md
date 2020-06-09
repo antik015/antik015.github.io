@@ -15,5 +15,5 @@ author_profile: true
 
 5. Jain, P., Chakraborty, A., Pistikopoulos, E. N., & Mannan, M. S. (2018). [Resilience-based process upset event prediction analysis for uncertainty management using Bayesian deep learning: application to a polyvinyl chloride process system](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.8b01069), Industrial & Engineering Chemistry Research, 57(43), 14822-14836.
 
-6. Bhattacharya, A., Chakraborty, A., & Mallick, B. K. (2016). [Fast sampling with Gaussian scale mixture priors in high-dimensional regression](https://academic.oup.com/biomet/article-abstract/103/4/985/2447851), Biometrika, 103(4), 985-991.
+6. Bhattacharya, A., Chakraborty, A., & Mallick, B. K. (2016). [Fast sampling with Gaussian scale mixture priors in high-dimensional regression](https://academic.oup.com/biomet/article-abstract/103/4/985/2447851), Biometrika, 103(4), 985-991. [arxiv](https://arxiv.org/abs/1506.04778)
 
