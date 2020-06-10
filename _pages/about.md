@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Antik Chakraborty"
+title: "Abou me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
