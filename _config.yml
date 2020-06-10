@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Antik Chakraborty"
+name                     : &name "About me"
 description              : &description "Personal Website"
 url                      : https://antik015.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
