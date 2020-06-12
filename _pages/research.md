@@ -19,7 +19,7 @@ the applications of these priors in many applications, for example, in GWAS stud
 Although the algorithm is oroginally developed in a high dimensional regression setting, the same principle can be applied in other 
 high dimensional problems such as covariance matrix estimation, factor models, dictionary learning etc. The following image shows the
 computing time of an algorithm (black solid line) proposed in [(Rue, 2001)](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/1467-9868.00288) and that of the proposed algorithm (black dotted line) in logarithmic scale. Clearly, the gains are huge when the dimension (p) increases.
-
+<img src="https://github.com/antik015/antik015.github.io/blob/master/images/time_comp-1.png" width = 100 height = 50>
 ![](https://github.com/antik015/antik015.github.io/blob/master/images/time_comp-1.png?raw=true)
 
 ## Scalable density estimation
