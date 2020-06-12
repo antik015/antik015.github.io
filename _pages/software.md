@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-## Codes
+## MATLAB/R codes
 
 * MATLAB code for [Bhattacharya, Chakraborty & Mallick (2016)](https://arxiv.org/abs/1506.04778) is [here](https://github.com/antik015/Fast-Sampling-of-Gaussian-Posteriors).
 * A comprehensive R package for high dimensional regression and normal means estimation using the algorithm from Bhattacharya, Chakraborty & Mallick (2016) is [here](https://cran.r-project.org/web/packages/horseshoe/index.html).
