@@ -19,5 +19,5 @@ the applications of these priors in many applications, for example, in GWAS stud
 Although the algorithm is oroginally developed in a high dimensional regression setting, the same principle can be applied in other 
 high dimensional problems such as covariance matrix estimation, factor models, dictionary learning etc. 
 
-![](images/time_comp-1.png)
+![Loagairthm of time in computing time in seconds](https://github.com/antik015/antik015.github.io/blob/master/images/time_comp-1.png?raw=true)
 
