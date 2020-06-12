@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Publications/Preprints
+title: "Preprints"
 permalink: /publications/
 author_profile: true
 ---
@@ -9,6 +9,7 @@ author_profile: true
 
 2. Chattopadhyay, S., Chakraborty, A., & Dunson, D. B. (2020). [Nearest Neighbor Dirichlet Process](https://arxiv.org/abs/2003.07953), (Submitted)
 
+# Publications
 3. Chakraborty, A., Bhattacharya, A., & Mallick, B. K. (2020). [Bayesian sparse multiple regression for simultaneous rank reduction and variable selection](https://academic.oup.com/biomet/article-abstract/107/1/205/5638937), Biometrika, 107(1), 205-221. [arxiv](https://arxiv.org/abs/1612.00877)
 
 4. Sarkar, A., Pati, D., Chakraborty, A., Mallick, B. K., & Carroll, R. J. (2018). [Bayesian semiparametric multivariate density deconvolution](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2016.1260467#.XuARxTpKhPY), Journal of the American Statistical Association, 113(521), 401-416. [arxiv](https://arxiv.org/abs/1404.6462)
