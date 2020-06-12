@@ -19,8 +19,8 @@ the applications of these priors in many applications, for example, in GWAS stud
 Although the algorithm is oroginally developed in a high dimensional regression setting, the same principle can be applied in other 
 high dimensional problems such as covariance matrix estimation, factor models, dictionary learning etc. The following image shows the
 computing time of an algorithm (black solid line) proposed in [(Rue, 2001)](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/1467-9868.00288) and that of the proposed algorithm (black dotted line) in logarithmic scale. Clearly, the gains are huge when the dimension (p) increases.
-<img src="https://github.com/antik015/antik015.github.io/blob/master/images/time_comp-1.png" width = 100 height = 50>
-![](https://github.com/antik015/antik015.github.io/blob/master/images/time_comp-1.png?raw=true)
+<img src="https://github.com/antik015/antik015.github.io/blob/master/images/time_comp-1.png" width = 600 height = 400>
+
 
 ## Scalable density estimation
 * Dirichlet process priors are one of the most popular Bayesian methods for nonparametric density estimation. While researchers have proposed many algorithms for posterior computation, they involve a delicate trade off between good mixing and computation time. Additionally, these methods are not suitable for high dimensional data which lie on lower dimensional manifolds such as data on galaxies, stars etc. In [Chattopadhyay, Chakraborty & Dunson (2020+)] we propose a pseudo Bayes approach combining the algorithmic simplicity of nearest neighbor methods and statistical versataility of Dirichlet process. The method involves in partititoning the data according to nearest neighborhoods and fitting a kernel, typicallu Gaussian, within each neighborhood. The fixed partitioning results in
