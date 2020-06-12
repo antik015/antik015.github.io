@@ -17,7 +17,8 @@ author_profile: true
 Monte Carlo algorithms to sample from the posterior distribution are very scale as a cubic with the dimension of the parameter limiting
 the applications of these priors in many applications, for example, in GWAS studies. In [Bhattachrya, Chakraborty & Mallick (2016)](https://arxiv.org/abs/1506.04778), we propose a novel algorithm to sample from the posterior that scales linearly with the dimension. 
 Although the algorithm is oroginally developed in a high dimensional regression setting, the same principle can be applied in other 
-high dimensional problems such as covariance matrix estimation, factor models, dictionary learning etc. 
+high dimensional problems such as covariance matrix estimation, factor models, dictionary learning etc. The following image shows the
+computing time of an algorithm (black solid line) proposed in [(Rue, 2001)](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/1467-9868.00288) and that of the proposed algorithm (black dotted line) in logarithmic scale. Clearly, the gains are huge when the dimension (p) increases.
 
 ![Loagairthm of time in computing time in seconds](https://github.com/antik015/antik015.github.io/blob/master/images/time_comp-1.png?raw=true)
 
