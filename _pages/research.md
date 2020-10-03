@@ -46,6 +46,6 @@ is aligned with observations made in other naturally occurring events such as ea
 and the scaling of conditional probabilities of 15 different bird species.
 ### Recorded data: black bars = 1 (vocaliztion), white bars = 0 (no vocalization)
 ![](https://github.com/antik015/antik015.github.io/blob/master/images/voc_plot_500x300.png?raw=true)
-### Scaling of connditional probabilities
-![](https://github.com/antik015/antik015.github.io/blob/master/images/voc_plot_500x300.png?raw=true)
+### Scaling of conditional probabilities at different time scales
+![](https://github.com/antik015/antik015.github.io/blob/master/images/conditional_probabilities_500x300.png?raw=true)
 
