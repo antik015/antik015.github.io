@@ -11,7 +11,7 @@ Indians I trained to be a professional cricket player during my childhood. Howev
 the [Eden Gardens](https://en.wikipedia.org/wiki/Eden_Gardens) in a scorching May afternoon in Kolkata.
 
 ### A beautiful sunset in Andaman Islands, India
-![](https://github.com/antik015/antik015.github.io/blob/master/images/andaman.jpg)
+![](https://github.com/antik015/antik015.github.io/blob/master/images/andaman.jpg?raw=true)
 
 ### Highline trail in Glacier national park, Montana, USA
 ![](https://github.com/antik015/antik015.github.io/blob/master/images/glacier_hike.jpg)
