@@ -49,3 +49,5 @@ and the scaling of conditional probabilities of 15 different bird species.
 ### Scaling of conditional probabilities at different time scales
 ![](https://github.com/antik015/antik015.github.io/blob/master/images/conditional_probabilities_500x300.png?raw=true)
 
+* I am part of the [Lifeplan](https://www.helsinki.fi/en/projects/lifeplan) project which aims to map global biodiversity. Apart from its tremendous scientific value the data
+collected by the scientists pose delightful statistical challenges. You can follow Lifeplan on [Twitter](https://twitter.com/LifeplanProject).
