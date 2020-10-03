@@ -12,4 +12,4 @@ students. Topics covered were posterior consistency, posterior contraction in hi
 access the book in a series of lectures [here](http://www.math.leidenuniv.nl/~avdvaart/BNP/BNP.pdf). My notes mainly covers parts of Chapters 7, 8 and 9.
 
 ### STAT 101 at Duke
-* I will be teaching STAT 101 this in Spring, 2021 at Duke.
+* I will be teaching STAT 101 in Spring, 2021 at Duke.
