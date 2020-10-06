@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 I am an obsessive Manchester United fan. I have been following the club since they won the treble in 1999. My favourite player is [Roy Keane](https://en.wikipedia.org/wiki/Roy_Keane). When I am not occupied 
-with Manchester United, I enjoy hiking, cooking traditional Bengali food and recently have started birding with my wife. Like thousands of other 
+with Manchester United, I enjoy playing football (soccer), hiking, cooking traditional Bengali food and recently have started birding with my wife. 
+I like [this](https://www.bongeats.com/) Bengali cooking channel very much.
+Like thousands of other 
 Indians I trained to be a professional cricket player during my childhood. However, my career high point in cricket came on the day when I played in
 the [Eden Gardens](https://en.wikipedia.org/wiki/Eden_Gardens) in a scorching May afternoon in Kolkata. Scroll down below to see some of my favorite 
 places.
