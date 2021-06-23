@@ -8,6 +8,7 @@ author_profile: true
 1. Chakraborty, A., Ovaskainen, O., & Dunson, D. B. (2020). [Bayesian semiparametric long memory models for discretized event data](https://arxiv.org/abs/2004.08309), (Submitted) 
 
 2. Chattopadhyay, S., Chakraborty, A., & Dunson, D. B. (2020). [Nearest Neighbor Dirichlet Process](https://arxiv.org/abs/2003.07953), (Submitted)
+3.  Chakraborty, A., Ou, R., & Dunson, D. B. (2021). [Bayesian inference for high-dimensional multivariate binary data](https://arxiv.org/abs/2106.02127), (Submitted)
 
 # Publications
 1. Chakraborty, A., Bhattacharya, A., & Mallick, B. K. (2019). [Bayesian sparse multiple regression for simultaneous rank reduction and variable selection](https://academic.oup.com/biomet/article-abstract/107/1/205/5638937), Biometrika, 107(1), 205-221. [arxiv](https://arxiv.org/abs/1612.00877)
