@@ -4,7 +4,6 @@ title: "Preprints"
 permalink: /publications/
 author_profile: true
 ---
-# Preprints
 
 1. **Chakraborty, A.**, Walsh, J. B., Strigari, L., Mallick, B. K., & Bhattacharya, A. (2024). [Orthogonal calibration via posterior projections with applications to the Schwarzschild model](https://arxiv.org/pdf/2404.03152).
 2. Chen, Y., Bhadra, A., & **Chakraborty, A.** (2024). [Likelihood Based Inference in Fully and Partially Observed Exponential Family Graphical Models with Intractable Normalizing Constants](https://arxiv.org/abs/2404.17763).
