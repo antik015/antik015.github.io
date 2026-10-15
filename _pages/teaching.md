@@ -5,6 +5,29 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<h2>Current teaching (<span id="current-teaching-term">Fall 2026</span>): <a href="https://www.stat.purdue.edu/scs/">Statistical Consulting Service</a></h2>
+
+<script>
+(function () {
+  var now = new Date();
+  var month = now.getMonth() + 1;
+  var term;
+
+  if (month <= 5) {
+    term = "Spring";
+  } else if (month <= 7) {
+    term = "Summer";
+  } else {
+    term = "Fall";
+  }
+
+  var target = document.getElementById("current-teaching-term");
+  if (target) {
+    target.textContent = term + " " + now.getFullYear();
+  }
+})();
+</script>
+
 ## Purdue University
 
 ### [STAT 511 — Statistical Methods](https://www.stat.purdue.edu/academic_programs/courses/schedule_info.php?crs=511&semester=Spring&year=2021)
