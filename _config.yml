@@ -83,7 +83,9 @@ author:
   name             : "Antik Chakraborty"
   avatar           : "prof_pic.jpg"
   bio              : "Assistant Professor"
-  location         : "Purdue University"
+  affiliation      : "Department of Statistics // Purdue University"
+  location         : "MATH 502, 150 N University St, West Lafayette, IN 47907"
+  location_url     : "https://www.google.com/maps/search/?api=1&query=MATH+502%2C+150+N+University+St%2C+West+Lafayette%2C+IN+47907"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dut8vUwAAAAJ&hl=en"
@@ -282,7 +284,7 @@ whitelist:
 #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
 #  Path (examples)
 #  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
+#  expect broken links (especially with breadcrumbs enabled)
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
@@ -296,7 +298,6 @@ tag_archive:
 # jekyll-archives:
 #   enabled:
 #     - categories
-#     - tags
 #   layouts:
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
