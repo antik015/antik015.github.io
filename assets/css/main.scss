@@ -39,3 +39,31 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Site-wide code-style typography */
+$site-mono-font: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
+html,
+body,
+button,
+input,
+select,
+textarea,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.masthead,
+.greedy-nav,
+.sidebar,
+.author__name,
+.nav__list,
+.page__title,
+.page__content,
+.archive,
+.archive__item-title,
+.site-title {
+  font-family: $site-mono-font;
+}
