@@ -12,8 +12,6 @@ I am an Assistant Professor in the [Department of Statistics](https://www.stat.p
 
 My research lies at the intersection of **Bayesian statistics, probabilistic graphical models, computational statistics, and Monte Carlo methods**. I am particularly interested in developing scalable methodology for complex, high-dimensional models where likelihood evaluation, sampling, or optimization is computationally challenging.
 
-Current research directions include **constrained sampling and stochastic-gradient Monte Carlo methods**, **graphical models for multivariate ordinal and preference data**, and **scalable Bayesian inference for high-dimensional structured data**.
-
 More broadly, my work combines statistical methodology, computation, and theory, with applications ranging from preference and ranking data to ecological, actuarial, and scientific problems.
 
 Before joining Purdue, I was a Postdoctoral Associate in Statistical Science at Duke University, where I worked with [David Dunson](https://stat.duke.edu/people/david-b-dunson). I received my Ph.D. in Statistics from Texas A&M University under the supervision of [Bani K. Mallick](https://artsci.tamu.edu/statistics/contact/profiles/bani-mallick.html) and [Anirban Bhattacharya](https://artsci.tamu.edu/statistics/contact/profiles/anirban-bhattacharya.html).
