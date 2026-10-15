@@ -17,7 +17,13 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-    {% if author.affiliation %}<p class="author__bio">{{ author.affiliation }}</p>{% endif %}
+    {% if author.department or author.university %}
+      <p class="author__bio">
+        {% if author.department %}<a href="{{ author.department_url }}">{{ author.department }}</a>{% endif %}
+        {% if author.department and author.university %}<br>{% endif %}
+        {% if author.university %}<a href="{{ author.university_url }}">{{ author.university }}</a>{% endif %}
+      </p>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -35,7 +41,7 @@
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
-       {% if author.researchgate %}
+      {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
       {% if author.twitter %}
@@ -120,7 +126,7 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
     </ul>
   </div>
 </div>
