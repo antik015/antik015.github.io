@@ -1,13 +1,17 @@
 ---
 layout: archive
-title: "Papers"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
 # Preprints
 
-1. Xu, M., **Chakraborty, A.**, & Xu, Y. (2025). *A Bayesian Clustering Approach to Multi-Population Mortality Modeling and Forecasting*. Working paper. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5115045)
+1. **Chakraborty, A.**, et al. (2026). *Two-Loop Stochastic Mirror Langevin Algorithms for Constrained Sampling*. Preprint. [Code](https://github.com/antik015/sFO-MLA)
+
+2. **Chakraborty, A.**, et al. (2026). *Covariate-dependent Joint Modeling of Multivariate Ordinal Preferences and Its Connections with Comparison Models*. Preprint. [Code](https://github.com/antik015/CR-MRF-ordinal-preference-data)
+
+3. Xu, M., **Chakraborty, A.**, & Xu, Y. (2025). *A Bayesian Clustering Approach to Multi-Population Mortality Modeling and Forecasting*. Working paper. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5115045)
 
 # Publications
 
