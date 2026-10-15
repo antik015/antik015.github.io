@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "Publications"
+title: "Papers"
 permalink: /publications/
 author_profile: true
 ---
 
-# Preprints and Working Papers
+# Preprints
 
 1. Xu, M., **Chakraborty, A.**, & Xu, Y. (2025). *A Bayesian Clustering Approach to Multi-Population Mortality Modeling and Forecasting*. Working paper. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5115045)
 
-# Publications and Forthcoming Papers
+# Publications
 
 1. **Chakraborty, A.**, & Xue, F. (2026). *Empirical Bayes Data Integration for Multi-Response Regression*. *Statistica Sinica*, forthcoming. [Paper](https://www3.stat.sinica.edu.tw/statistica/fp/SS-2025-0115.html) [Code](https://github.com/antik015/EBayes-Integration) [DOI](https://doi.org/10.5705/ss.202025.0115)
 
