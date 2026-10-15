@@ -90,7 +90,7 @@ author_profile: true
 }
 </style>
 
-<p class="research-intro">My research develops statistical and computational methodology for complex, high-dimensional probability models, with an emphasis on Bayesian inference, graphical models, and Monte Carlo methods.</p>
+<p class="research-intro">My research develops statistical and computational methodology for complex, high-dimensional probability models, with an emphasis on Bayesian inference, graphical models, and Monte Carlo methods.<br><br>Short summary of selected recent projects:</p>
 
 <div class="research-item">
   <figure class="research-visual">
