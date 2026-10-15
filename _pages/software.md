@@ -17,6 +17,12 @@ Code for fitting covariate-dependent consecutive-ratio Markov random fields to m
 
 [Code](https://github.com/antik015/CR-MRF-ordinal-preference-data) · [Paper](https://arxiv.org/abs/2610.09070)
 
+### Exact and Approximate MCMC for Doubly-Intractable Graphical Models
+
+Code accompanying work on exact and approximate MCMC methods for probabilistic graphical models with intractable normalizing constants, leveraging the corresponding independence model to construct efficient samplers.
+
+[Code](https://github.com/antik015/exact-approx-mcmc) · [Paper](https://proceedings.mlr.press/v300/chen26e.html) · [arXiv](https://arxiv.org/abs/2510.03587)
+
 ### ExponentialGM
 
 R code for likelihood-based inference in fully and partially observed exponential-family graphical models with intractable normalizing constants.
