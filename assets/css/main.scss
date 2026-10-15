@@ -48,12 +48,12 @@ $editorial-serif: Georgia, Cambria, "Times New Roman", Times, serif;
 $editorial-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 $editorial-mono: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 
-$paper: #f3f6f8;
-$ink: #1e2328;
-$muted-ink: #66717a;
-$rule: #d5dde3;
-$accent: #8e6f2f;
-$accent-dark: #654d1e;
+$paper: #2d3339;
+$ink: #f0eee8;
+$muted-ink: #b7bdc2;
+$rule: #48515a;
+$accent: #d3b266;
+$accent-dark: #e0c47d;
 
 html,
 body {
@@ -135,7 +135,7 @@ a:focus {
 
 .page__content a:not(.btn),
 .archive a:not(.btn) {
-  border-bottom: 1px solid rgba(101, 77, 30, 0.35);
+  border-bottom: 1px solid rgba(224, 196, 125, 0.4);
 }
 
 .page__content a:not(.btn):hover,
@@ -145,7 +145,7 @@ a:focus {
 
 /* Masthead and navigation */
 .masthead {
-  background: rgba(243, 246, 248, 0.97);
+  background: rgba(45, 51, 57, 0.97);
   border-bottom: 1px solid $rule;
   box-shadow: none;
 }
@@ -266,7 +266,7 @@ a:focus {
 }
 
 .author__urls a:hover {
-  color: $accent-dark;
+  color: $accent;
 }
 
 .author__urls i {
@@ -283,7 +283,7 @@ a:focus {
 .archive ol > li {
   padding: 0.2rem 0 1.15rem 0.25rem;
   margin-bottom: 1.05rem;
-  border-bottom: 1px solid rgba(213, 221, 227, 0.78);
+  border-bottom: 1px solid rgba(72, 81, 90, 0.9);
 }
 
 .page__content ol > li:last-child,
@@ -297,7 +297,7 @@ a:focus {
 }
 
 .archive h3 + p {
-  color: #3d474f;
+  color: #d4d7d9;
   margin-bottom: 0.5rem;
 }
 
@@ -341,8 +341,8 @@ a:focus {
 
 /* Selection + subtle details */
 ::selection {
-  background: #dbe4eb;
-  color: $ink;
+  background: #59636d;
+  color: #fffaf0;
 }
 
 code,
