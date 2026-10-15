@@ -7,9 +7,9 @@ author_profile: true
 
 # Preprints
 
-1. **Chakraborty, A.**, et al. (2026). *Two-Loop Stochastic Mirror Langevin Algorithms for Constrained Sampling*. Preprint. [Code](https://github.com/antik015/sFO-MLA)
+1. Tong, R., **Chakraborty, A.**, & Pasupathy, R. (2026). *Two-Loop Stochastic Mirror Langevin Algorithms for Constrained Sampling*. Preprint. [arXiv](https://arxiv.org/abs/2610.09402) [Code](https://github.com/antik015/sFO-MLA)
 
-2. **Chakraborty, A.**, et al. (2026). *Covariate-dependent Joint Modeling of Multivariate Ordinal Preferences and Its Connections with Comparison Models*. Preprint. [Code](https://github.com/antik015/CR-MRF-ordinal-preference-data)
+2. Chen, Y., **Chakraborty, A.**, & Bhadra, A. (2026). *Covariate-dependent Joint Modeling of Multivariate Ordinal Preferences and Its Connections with Comparison Models*. Preprint. [arXiv](https://arxiv.org/abs/2610.09070) [Code](https://github.com/antik015/CR-MRF-ordinal-preference-data)
 
 3. Xu, M., **Chakraborty, A.**, & Xu, Y. (2025). *A Bayesian Clustering Approach to Multi-Population Mortality Modeling and Forecasting*. Working paper. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5115045)
 
