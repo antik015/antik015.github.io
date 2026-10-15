@@ -48,10 +48,10 @@ $editorial-serif: Georgia, Cambria, "Times New Roman", Times, serif;
 $editorial-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 $editorial-mono: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 
-$paper: #2d3339;
+$paper: #252a2f;
 $ink: #f0eee8;
-$muted-ink: #b7bdc2;
-$rule: #48515a;
+$muted-ink: #b2b8bd;
+$rule: #414951;
 $accent: #d3b266;
 $accent-dark: #e0c47d;
 
@@ -145,7 +145,7 @@ a:focus {
 
 /* Masthead and navigation */
 .masthead {
-  background: rgba(45, 51, 57, 0.97);
+  background: rgba(37, 42, 47, 0.97);
   border-bottom: 1px solid $rule;
   box-shadow: none;
 }
@@ -283,7 +283,7 @@ a:focus {
 .archive ol > li {
   padding: 0.2rem 0 1.15rem 0.25rem;
   margin-bottom: 1.05rem;
-  border-bottom: 1px solid rgba(72, 81, 90, 0.9);
+  border-bottom: 1px solid rgba(65, 73, 81, 0.95);
 }
 
 .page__content ol > li:last-child,
@@ -297,7 +297,7 @@ a:focus {
 }
 
 .archive h3 + p {
-  color: #d4d7d9;
+  color: #d0d4d7;
   margin-bottom: 0.5rem;
 }
 
@@ -341,7 +341,7 @@ a:focus {
 
 /* Selection + subtle details */
 ::selection {
-  background: #59636d;
+  background: #515a63;
   color: #fffaf0;
 }
 
