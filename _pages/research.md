@@ -123,13 +123,9 @@ author_profile: true
 <div class="research-item">
   <figure class="research-visual">
     <div class="research-frame">
-      <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:0.3rem;width:100%;">
-        <img src="https://arxiv.org/html/2404.17763v3/Isingp20_theta0.png" alt="True Ising parameter matrix">
-        <img src="https://arxiv.org/html/2404.17763v3/Isingp20_theta_lasso.png" alt="Penalized maximum likelihood estimate of the Ising parameter matrix">
-        <img src="https://arxiv.org/html/2404.17763v3/Isingp20_theta_plasso.png" alt="Penalized maximum pseudo-likelihood estimate of the Ising parameter matrix">
-      </div>
+      <img src="/images/research/likelihood_based.svg" alt="True interaction matrix, penalized maximum likelihood estimate, and penalized maximum pseudo-likelihood estimate">
     </div>
-    <figcaption class="research-caption">True interaction structure and corresponding likelihood- and pseudo-likelihood-based estimates for an Ising model.</figcaption>
+    <figcaption class="research-caption">Recovery of graphical-model interaction structure using penalized maximum likelihood and penalized maximum pseudo-likelihood estimators.</figcaption>
   </figure>
   <div class="research-copy">
     <h2>Likelihood-Based Inference for Intractable Graphical Models</h2>
